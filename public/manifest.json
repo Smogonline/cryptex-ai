@@ -1,0 +1,22 @@
+{
+  "short_name": "CRYPTEX AI",
+  "name": "CRYPTEX AI — Professional Trading Suite",
+  "description": "Real-time crypto trading analysis, AI signals, and price alerts.",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#060d18",
+  "background_color": "#060d18",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/00ff88/060d18?text=C",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://via.placeholder.com/512/00ff88/060d18?text=C",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
